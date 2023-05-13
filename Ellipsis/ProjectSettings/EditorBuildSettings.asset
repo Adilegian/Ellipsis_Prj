@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/NitaniRoom.unity
+    guid: 21a0e7ba1696be045ab6bf927ac853d5
+  - enabled: 0
+    path: Assets/Ellipsis_8-11-21.unity
+    guid: 63f166e7dfd31d943b5d25a39846faba
+  - enabled: 0
+    path: Assets/Ellipsis_8-26-21.unity
+    guid: ab98eacbba25c7447a916852372be612
+  - enabled: 0
+    path: Assets/Ellipsis_10-11-21.unity
+    guid: 84ca1a610b0dd6a45ba45a8ccab79429
+  - enabled: 0
+    path: Assets/Ellipsis_10-17-21.unity
+    guid: 8472d85e72d7268478c063925d5008d3
+  - enabled: 0
+    path: Assets/Ellipsis_4-16-23.unity
+    guid: dc2bdc0974baa3846b156b6579482ad7
+  - enabled: 0
+    path: Assets/Ellipsis_4-25-23.unity
+    guid: 23bd2bfe1f37db34b822d1cd30ba60fb
+  - enabled: 0
+    path: Assets/Ellipsis_4-30-23.unity
+    guid: 50fd59f104d755349869dc5ca4a2bf61
+  - enabled: 0
+    path: Assets/Ellipsis_4-30-23_JoeHeightIs1.75.unity
+    guid: 157ea09618bdc63468e811bebbfd2f69
+  - enabled: 0
+    path: Assets/Ellipsis_5-7-23_RegularHeight.unity
+    guid: 1f2dc60ecc835364fb4f6cff73d0252c
+  - enabled: 1
+    path: Assets/Ellipsis_5-7-23_Darlene Height.unity
+    guid: 091da481b8679c647a19636cd45bd801
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bd4032b77e385034c8dc1ad08304189f, type: 2}
