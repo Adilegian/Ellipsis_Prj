@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: eb5ffa4d83dc914478e89c5aca2dcf7c
+timeCreated: 1493964160
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabinetBaseLowTokonoma
+    100002: cabinetBaseLowTokonoma 1
+    100004: cabinetLowTokonoma
+    100006: cabinetLowTokonoma2
+    100008: cloth
+    100010: cloth 1
+    100012: cloth 2
+    100014: cloth 3
+    100016: cloth 4
+    100018: cloth 5
+    100020: cloth 6
+    100022: cloth 7
+    100024: doorSmallTokonomaLeft
+    100026: doorSmallTokonomaLeft 1
+    100028: doorSmallTokonomaLeft1
+    100030: doorSmallTokonomaLeft1 1
+    100032: doorSmallTokonomaRight
+    100034: doorSmallTokonomaRight 1
+    100036: doorSmallTokonomaRight1
+    100038: doorSmallTokonomaRight1 1
+    100040: frame
+    100042: frame 1
+    100044: frame 2
+    100046: frame 3
+    100048: frame 4
+    100050: frame 5
+    100052: frame 6
+    100054: frame 7
+    100056: handle
+    100058: handle 1
+    100060: handle 2
+    100062: handle 3
+    100064: handle 4
+    100066: handle 5
+    100068: handle 6
+    100070: handle 7
+    100072: shelfThree
+    100074: //RootNode
+    100076: tokonomaWood_2
+    100078: wall_2_7x2
+    400000: cabinetBaseLowTokonoma
+    400002: cabinetBaseLowTokonoma 1
+    400004: cabinetLowTokonoma
+    400006: cabinetLowTokonoma2
+    400008: cloth
+    400010: cloth 1
+    400012: cloth 2
+    400014: cloth 3
+    400016: cloth 4
+    400018: cloth 5
+    400020: cloth 6
+    400022: cloth 7
+    400024: doorSmallTokonomaLeft
+    400026: doorSmallTokonomaLeft 1
+    400028: doorSmallTokonomaLeft1
+    400030: doorSmallTokonomaLeft1 1
+    400032: doorSmallTokonomaRight
+    400034: doorSmallTokonomaRight 1
+    400036: doorSmallTokonomaRight1
+    400038: doorSmallTokonomaRight1 1
+    400040: frame
+    400042: frame 1
+    400044: frame 2
+    400046: frame 3
+    400048: frame 4
+    400050: frame 5
+    400052: frame 6
+    400054: frame 7
+    400056: handle
+    400058: handle 1
+    400060: handle 2
+    400062: handle 3
+    400064: handle 4
+    400066: handle 5
+    400068: handle 6
+    400070: handle 7
+    400072: shelfThree
+    400074: //RootNode
+    400076: tokonomaWood_2
+    400078: wall_2_7x2
+    2300000: cabinetBaseLowTokonoma
+    2300002: cabinetBaseLowTokonoma 1
+    2300004: cloth
+    2300006: cloth 1
+    2300008: cloth 2
+    2300010: cloth 3
+    2300012: cloth 4
+    2300014: cloth 5
+    2300016: cloth 6
+    2300018: cloth 7
+    2300020: frame
+    2300022: frame 1
+    2300024: frame 2
+    2300026: frame 3
+    2300028: frame 4
+    2300030: frame 5
+    2300032: frame 6
+    2300034: frame 7
+    2300036: handle
+    2300038: handle 1
+    2300040: handle 2
+    2300042: handle 3
+    2300044: handle 4
+    2300046: handle 5
+    2300048: handle 6
+    2300050: handle 7
+    2300052: shelfThree
+    2300054: tokonomaWood_2
+    2300056: wall_2_7x2
+    3300000: cabinetBaseLowTokonoma
+    3300002: cabinetBaseLowTokonoma 1
+    3300004: cloth
+    3300006: cloth 1
+    3300008: cloth 2
+    3300010: cloth 3
+    3300012: cloth 4
+    3300014: cloth 5
+    3300016: cloth 6
+    3300018: cloth 7
+    3300020: frame
+    3300022: frame 1
+    3300024: frame 2
+    3300026: frame 3
+    3300028: frame 4
+    3300030: frame 5
+    3300032: frame 6
+    3300034: frame 7
+    3300036: handle
+    3300038: handle 1
+    3300040: handle 2
+    3300042: handle 3
+    3300044: handle 4
+    3300046: handle 5
+    3300048: handle 6
+    3300050: handle 7
+    3300052: shelfThree
+    3300054: tokonomaWood_2
+    3300056: wall_2_7x2
+    4300000: cabinetBaseLowTokonoma
+    4300002: cloth
+    4300004: frame
+    4300006: handle
+    4300008: cloth
+    4300010: frame
+    4300012: handle
+    4300014: cloth
+    4300016: frame
+    4300018: handle
+    4300020: cloth
+    4300022: frame
+    4300024: handle
+    4300026: tokonomaWood_2
+    4300028: shelfThree
+    4300030: wall_2_7x2
+    4300032: cabinetBaseLowTokonoma
+    4300034: cloth
+    4300036: frame
+    4300038: handle
+    4300040: cloth
+    4300042: frame
+    4300044: handle
+    4300046: cloth
+    4300048: frame
+    4300050: handle
+    4300052: cloth
+    4300054: frame
+    4300056: handle
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
