@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: c7b47d18b3e273548a6cc1f23d08c597
+timeCreated: 1494055819
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aluminium
+    100002: aluminium 1
+    100004: door_shouji_type5
+    100006: door_shouji_type6
+    100008: glass
+    100010: glass 1
+    100012: handle
+    100014: hook
+    100016: lock
+    100018: pillar_aboveDoorWindow_5
+    100020: pillar_underDoorWindow_5
+    100022: wall_2x6
+    100024: window_2
+    100026: windowFrame
+    100028: windowLeftPart
+    100030: windowLeftPart1
+    100032: //RootNode
+    400000: aluminium
+    400002: aluminium 1
+    400004: door_shouji_type5
+    400006: door_shouji_type6
+    400008: glass
+    400010: glass 1
+    400012: handle
+    400014: hook
+    400016: lock
+    400018: pillar_aboveDoorWindow_5
+    400020: pillar_underDoorWindow_5
+    400022: wall_2x6
+    400024: window_2
+    400026: windowFrame
+    400028: windowLeftPart
+    400030: windowLeftPart1
+    400032: //RootNode
+    2300000: aluminium
+    2300002: aluminium 1
+    2300004: door_shouji_type5
+    2300006: door_shouji_type6
+    2300008: glass
+    2300010: glass 1
+    2300012: handle
+    2300014: hook
+    2300016: pillar_aboveDoorWindow_5
+    2300018: pillar_underDoorWindow_5
+    2300020: wall_2x6
+    2300022: windowFrame
+    3300000: aluminium
+    3300002: aluminium 1
+    3300004: door_shouji_type5
+    3300006: door_shouji_type6
+    3300008: glass
+    3300010: glass 1
+    3300012: handle
+    3300014: hook
+    3300016: pillar_aboveDoorWindow_5
+    3300018: pillar_underDoorWindow_5
+    3300020: wall_2x6
+    3300022: windowFrame
+    4300000: door_shouji_type5
+    4300002: wall_2x6
+    4300004: door_shouji_type6
+    4300006: pillar_underDoorWindow_5
+    4300008: pillar_aboveDoorWindow_5
+    4300010: aluminium
+    4300012: glass
+    4300014: windowFrame
+    4300016: hook
+    4300018: handle
+    4300020: aluminium
+    4300022: glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

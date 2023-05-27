@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 3551a194dc70ad245a67f5324444ed53
+timeCreated: 1494472254
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabinetBase
+    100002: ceiling_1half1
+    100004: door_woodLeft
+    100006: door_woodRight
+    100008: pillar_roomEdges_5
+    100010: pillar_roomEdges_6
+    100012: pillar_roomEdges_7
+    100014: pillar_roomEdges_8
+    100016: pillar_roomEdges_9
+    100018: wall_2x3
+    100020: wall_2x4
+    100022: wall_2x5
+    100024: window
+    100026: //RootNode
+    400000: cabinetBase
+    400002: ceiling_1half1
+    400004: door_woodLeft
+    400006: door_woodRight
+    400008: pillar_roomEdges_5
+    400010: pillar_roomEdges_6
+    400012: pillar_roomEdges_7
+    400014: pillar_roomEdges_8
+    400016: pillar_roomEdges_9
+    400018: wall_2x3
+    400020: wall_2x4
+    400022: wall_2x5
+    400024: window
+    400026: //RootNode
+    2300000: cabinetBase
+    2300002: ceiling_1half1
+    2300004: door_woodLeft
+    2300006: door_woodRight
+    2300008: pillar_roomEdges_5
+    2300010: pillar_roomEdges_6
+    2300012: pillar_roomEdges_7
+    2300014: pillar_roomEdges_8
+    2300016: pillar_roomEdges_9
+    2300018: wall_2x3
+    2300020: wall_2x4
+    2300022: wall_2x5
+    2300024: window
+    3300000: cabinetBase
+    3300002: ceiling_1half1
+    3300004: door_woodLeft
+    3300006: door_woodRight
+    3300008: pillar_roomEdges_5
+    3300010: pillar_roomEdges_6
+    3300012: pillar_roomEdges_7
+    3300014: pillar_roomEdges_8
+    3300016: pillar_roomEdges_9
+    3300018: wall_2x3
+    3300020: wall_2x4
+    3300022: wall_2x5
+    3300024: window
+    4300000: window
+    4300002: wall_2x3
+    4300004: door_woodRight
+    4300006: door_woodLeft
+    4300008: ceiling_1half1
+    4300010: wall_2x4
+    4300012: wall_2x5
+    4300014: cabinetBase
+    4300016: pillar_roomEdges_5
+    4300018: pillar_roomEdges_6
+    4300020: pillar_roomEdges_7
+    4300022: pillar_roomEdges_8
+    4300024: pillar_roomEdges_9
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

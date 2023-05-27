@@ -1,0 +1,19 @@
+Laser by JuniorPro.
+User's Manual
+
+Laser is a LowPoly fully game ready unity asset with 2 functionalities
+1. Laser Beam,
+2. Flash Light.
+
+
+How to use:
+
+Just drag the prefab (which can be found in the root folder) named "Military Laser" in your scene.
+Use Mouse1 button for Laser beam and Mouse2 button for Flash Light.
+There are 2 buttons on laser model for Laser and Flash, which user can define accordingly.
+
+Also there is a pointer image in the OtherPrefabs folder indicating the laser's hit which users can use.
+
+
+Thankyou for using this asset, Feedback is always appreciated.
+More themes will be up for free(soon).

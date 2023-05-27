@@ -1,0 +1,34 @@
+﻿using System.Collections;
+using UnityEngine;
+
+[RequireComponent (typeof (LineRenderer))]
+
+public class beam : MonoBehaviour 
+{
+
+	private LineRenderer lr;
+
+	// Use this for initialization
+	void Start () 
+	{
+		lr = GetComponent<LineRenderer>();
+	}
+	
+	// Update is called once per frame
+	void Update () 
+	{
+		lr.SetPosition(0, transform.position);
+		RaycastHit hit;
+		Ray ray;
+ 
+		if (Physics.Raycast(transform.position, transform.forward, out hit))
+		{
+			if(hit.collider)
+			{
+				lr.SetPosition(1, hit.point);
+			}
+		}else{
+			lr.SetPosition(1, transform.forward*5000);
+		}
+	}
+}

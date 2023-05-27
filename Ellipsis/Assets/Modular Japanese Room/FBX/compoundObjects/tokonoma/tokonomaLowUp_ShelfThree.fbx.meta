@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: c256c4067ce3f7b47ad7488559d9cb07
+timeCreated: 1493964160
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabinetBaseLowTokonoma
+    100002: cabinetLowTokonoma
+    100004: cloth
+    100006: cloth 1
+    100008: cloth 2
+    100010: cloth 3
+    100012: doorSmallTokonomaLeft
+    100014: doorSmallTokonomaLeft1
+    100016: doorSmallTokonomaRight
+    100018: doorSmallTokonomaRight1
+    100020: frame
+    100022: frame 1
+    100024: frame 2
+    100026: frame 3
+    100028: handle
+    100030: handle 1
+    100032: handle 2
+    100034: handle 3
+    100036: shelfThree
+    100038: //RootNode
+    100040: tokonomaWood_2
+    100042: wall_2_7x2
+    400000: cabinetBaseLowTokonoma
+    400002: cabinetLowTokonoma
+    400004: cloth
+    400006: cloth 1
+    400008: cloth 2
+    400010: cloth 3
+    400012: doorSmallTokonomaLeft
+    400014: doorSmallTokonomaLeft1
+    400016: doorSmallTokonomaRight
+    400018: doorSmallTokonomaRight1
+    400020: frame
+    400022: frame 1
+    400024: frame 2
+    400026: frame 3
+    400028: handle
+    400030: handle 1
+    400032: handle 2
+    400034: handle 3
+    400036: shelfThree
+    400038: //RootNode
+    400040: tokonomaWood_2
+    400042: wall_2_7x2
+    2300000: cabinetBaseLowTokonoma
+    2300002: cloth
+    2300004: cloth 1
+    2300006: cloth 2
+    2300008: cloth 3
+    2300010: frame
+    2300012: frame 1
+    2300014: frame 2
+    2300016: frame 3
+    2300018: handle
+    2300020: handle 1
+    2300022: handle 2
+    2300024: handle 3
+    2300026: shelfThree
+    2300028: tokonomaWood_2
+    2300030: wall_2_7x2
+    3300000: cabinetBaseLowTokonoma
+    3300002: cloth
+    3300004: cloth 1
+    3300006: cloth 2
+    3300008: cloth 3
+    3300010: frame
+    3300012: frame 1
+    3300014: frame 2
+    3300016: frame 3
+    3300018: handle
+    3300020: handle 1
+    3300022: handle 2
+    3300024: handle 3
+    3300026: shelfThree
+    3300028: tokonomaWood_2
+    3300030: wall_2_7x2
+    4300000: cabinetBaseLowTokonoma
+    4300002: cloth
+    4300004: frame
+    4300006: handle
+    4300008: cloth
+    4300010: frame
+    4300012: handle
+    4300014: cloth
+    4300016: frame
+    4300018: handle
+    4300020: cloth
+    4300022: frame
+    4300024: handle
+    4300026: tokonomaWood_2
+    4300028: shelfThree
+    4300030: wall_2_7x2
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

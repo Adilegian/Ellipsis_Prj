@@ -39,4 +39,4 @@ EditorBuildSettings:
     path: Assets/Ellipsis_5-7-23_Darlene Height.unity
     guid: 091da481b8679c647a19636cd45bd801
   m_configObjects:
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bd4032b77e385034c8dc1ad08304189f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0a147f0ef176d7a4d863620ce5d4b414, type: 2}
